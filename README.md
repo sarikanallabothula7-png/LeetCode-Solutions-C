@@ -9,6 +9,8 @@ This repository contains my solutions to LeetCode problems implemented in C.
 1. Two Sum (#1)
 2. Best Time to Buy and Sell Stock (#121)
 3. Contains Duplicate (#217)
+4. Maximum Subarray (#53)
+5. Merge Sorted Array (#88)
 
 ## Goals
 - Improve problem-solving skills
