@@ -11,6 +11,8 @@ This repository contains my solutions to LeetCode problems implemented in C.
 3. Contains Duplicate (#217)
 4. Maximum Subarray (#53)
 5. Merge Sorted Array (#88)
+6. Move Zeroes (#283)
+
 
 ## Goals
 - Improve problem-solving skills
