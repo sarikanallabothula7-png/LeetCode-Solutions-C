@@ -13,6 +13,8 @@ This repository contains my solutions to LeetCode problems implemented in C.
 5. Merge Sorted Array (#88)
 6. Move Zeroes (#283)
 7. Longest Common Prefix (#14)
+8. Valid Parentheses (#20)
+  
 
 
 ## Goals
