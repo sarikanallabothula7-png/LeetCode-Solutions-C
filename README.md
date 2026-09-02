@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems implemented in C.
 9. Majority Element (#169)
 10. Missing Number (#268)
 11. Product of Array Except Self (#238)
+12. Find Pivot Index (#724)
 
   
 
