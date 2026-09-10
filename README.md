@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems implemented in C.
 12. Find Pivot Index (#724)
 13. Maximum Product Subarray (#152)
 14. Rotate Array (#189)
+15. Remove Duplicates from Sorted Array (#26)
 
   
 
